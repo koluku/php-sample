@@ -28,8 +28,7 @@
       <section>
         <?php
           print "<h2>Run on Web</h2>/n";
-          echo "<p>print,echoでHTMLを出力することができる。<br>"¥n;
-          echo "文字列として記述し、HTMLの構造上でタグの最後に¥n（改行）を付けるのが望ましい。</p>";
+          echo "<p>print,echoでHTMLを出力することができる。<br>\n";
          ?>
       </section>
     </section>
