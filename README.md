@@ -2,6 +2,10 @@
 
 PHPの勉強に作った.phpファイル
 
+# Files
+
+- [text.php](text.php)
+
 ## License
 
 [MIT License](LICENSE.md)
