@@ -27,7 +27,7 @@
       </section>
       <section>
         <?php
-          print "<h2>Run on Web</h2>/n";
+          print "<h2>Run on Web</h2>\n";
           echo "<p>print,echoでHTMLを出力することができる。<br>\n";
          ?>
       </section>
