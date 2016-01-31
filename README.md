@@ -2,9 +2,10 @@
 
 PHPの勉強に作った.phpファイル
 
-# Files
+## Samples
 
 - [text.php](text.php)
+  - 文字出力に関してのサンプル
 
 ## License
 
