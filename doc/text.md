@@ -25,7 +25,7 @@ print,echoでHTMLを出力することができる。この場合は文字列リ
 複数行にわたって文章を記述する場合はヒアドキュメントで記述することができる。<br>
 コードの構造が崩れてしまうため仕様は控えた方が好ましい。
 
-`print <<<EOD
-  If you do anything for your girlfriend, you will happy.<br>\n
-  But, can you do?
-EOD;`
+    print <<<EOD
+      If you do anything for your girlfriend, you will happy.<br>\n
+      But, can you do?
+    EOD;
