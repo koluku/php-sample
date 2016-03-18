@@ -6,7 +6,7 @@ PHPの勉強に作ったリポジトリ。
 
 簡単なサンプル付きの説明。
 
-- [text.php](doc/text.ｍｄ)
+- [text.md](doc/text.md)
   - 文字出力に関して
 
 ## License
