@@ -1,11 +1,13 @@
-# PHP Sample　[![Build Status](https://travis-ci.org/koluku/php-sample.svg?branch=master)](https://travis-ci.org/koluku/php-sample)
+# PHP Sample
 
-PHPの勉強に作った.phpファイル
+PHPの勉強に作ったリポジトリ。
 
-## Samples
+## Docs
 
-- [text.php](text.php)
-  - 文字出力に関してのサンプル
+簡単なサンプル付きの説明。
+
+- [text.php](doc/text.ｍｄ)
+  - 文字出力に関して
 
 ## License
 
