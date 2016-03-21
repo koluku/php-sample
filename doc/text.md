@@ -12,7 +12,7 @@ PHPは基本的にHTML上に記述してブラウザ上で実行する。例外�
 
 printの代わりにechoで出力することができる。記法はprintと同様だが、仕様上で細かい差異があることに留意。
 
-echo "Write Your Code";
+`echo "Write Your Code";`
 
 ## print,echoでHTMLを出力
 
