@@ -22,8 +22,10 @@ print,echoでHTMLを出力することができる。この場合は文字列リ
 
 ## ヒアドキュメント
 
-複数行にわたって文章を記述する場合はヒアドキュメントで記述することができる。<br>
+複数行にわたって文章を記述する場合はヒアドキュメントで記述することができる。  
 コードの構造が崩れてしまうため仕様は控えた方が好ましい。
+
+書き方には気をつけなければいけない点があるため、[ドキュメント](http://php.net/manual/ja/language.types.string.php)を参照してください。
 
 `print <<<EOD
   If you do anything for your girlfriend, you will happy.<br>\n
