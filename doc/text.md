@@ -12,7 +12,7 @@ PHPは基本的にHTML上に記述してブラウザ上で実行する。例外�
 
 printの代わりにechoで出力することができる。記法はprintと同様だが、仕様上で細かい差異があることに留意。
 
-echo "Write Your Code";
+`echo "Write Your Code";`
 
 ## print,echoでHTMLを出力
 
@@ -25,9 +25,16 @@ print,echoでHTMLを出力することができる。この場合は文字列リ
 複数行にわたって文章を記述する場合はヒアドキュメントで記述することができる。  
 コードの構造が崩れてしまうため仕様は控えた方が好ましい。
 
+<<<<<<< HEAD
 書き方には気をつけなければいけない点があるため、[ドキュメント](http://php.net/manual/ja/language.types.string.php)を参照してください。
 
 `print <<<EOD
   If you do anything for your girlfriend, you will happy.<br>\n
   But, can you do?
 EOD;`
+=======
+    print <<<EOD
+      If you do anything for your girlfriend, you will happy.<br>\n
+      But, can you do?
+    EOD;
+>>>>>>> b282c280f53f8078892729b91aa9ba9eb7489f02
