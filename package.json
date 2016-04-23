@@ -1,5 +1,5 @@
 {
-  "name": "php-sample",
+  "name": "sample-php",
   "version": "0.0.0",
   "description": "PHPの勉強に作ったリポジトリ。",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koluku/php-sample.git"
+    "url": "git+https://github.com/koluku/sample-php.git"
   },
   "author": "koluku",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/koluku/php-sample/issues"
+    "url": "https://github.com/koluku/sample-php/issues"
   },
-  "homepage": "https://github.com/koluku/php-sample#readme",
+  "homepage": "https://github.com/koluku/sample-php#readme",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-notify": "^2.2.0",
