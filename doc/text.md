@@ -27,7 +27,9 @@ print,echoでHTMLを出力することができる。この場合は文字列リ
 
 書き方には気をつけなければいけない点があるため、[ドキュメント](http://php.net/manual/ja/language.types.string.php)を参照してください。
 
-`print <<<EOD
+```
+print <<<EOD
   If you do anything for your girlfriend, you will happy.<br>\n
   But, can you do?
-EOD;`
+EOD;
+```
